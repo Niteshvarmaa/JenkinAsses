@@ -1,0 +1,14 @@
+E:\others\csharp\ConsoleAppAssess\ConsoleAppAssess\bin\Debug\net6.0\ConsoleAppAssess.exe
+E:\others\csharp\ConsoleAppAssess\ConsoleAppAssess\bin\Debug\net6.0\ConsoleAppAssess.deps.json
+E:\others\csharp\ConsoleAppAssess\ConsoleAppAssess\bin\Debug\net6.0\ConsoleAppAssess.runtimeconfig.json
+E:\others\csharp\ConsoleAppAssess\ConsoleAppAssess\bin\Debug\net6.0\ConsoleAppAssess.dll
+E:\others\csharp\ConsoleAppAssess\ConsoleAppAssess\bin\Debug\net6.0\ConsoleAppAssess.pdb
+E:\others\csharp\ConsoleAppAssess\ConsoleAppAssess\obj\Debug\net6.0\ConsoleAppAssess.GeneratedMSBuildEditorConfig.editorconfig
+E:\others\csharp\ConsoleAppAssess\ConsoleAppAssess\obj\Debug\net6.0\ConsoleAppAssess.AssemblyInfoInputs.cache
+E:\others\csharp\ConsoleAppAssess\ConsoleAppAssess\obj\Debug\net6.0\ConsoleAppAssess.AssemblyInfo.cs
+E:\others\csharp\ConsoleAppAssess\ConsoleAppAssess\obj\Debug\net6.0\ConsoleAppAssess.csproj.CoreCompileInputs.cache
+E:\others\csharp\ConsoleAppAssess\ConsoleAppAssess\obj\Debug\net6.0\ConsoleAppAssess.dll
+E:\others\csharp\ConsoleAppAssess\ConsoleAppAssess\obj\Debug\net6.0\refint\ConsoleAppAssess.dll
+E:\others\csharp\ConsoleAppAssess\ConsoleAppAssess\obj\Debug\net6.0\ConsoleAppAssess.pdb
+E:\others\csharp\ConsoleAppAssess\ConsoleAppAssess\obj\Debug\net6.0\ConsoleAppAssess.genruntimeconfig.cache
+E:\others\csharp\ConsoleAppAssess\ConsoleAppAssess\obj\Debug\net6.0\ref\ConsoleAppAssess.dll
